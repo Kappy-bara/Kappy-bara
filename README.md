@@ -5,6 +5,7 @@
 - 📫 How to reach me ?? Don't :).   jk, here is my Email: Jnanadattanayak2003@gmail.com
 - ⚡ Fun fact: I love coding.
 
+I am usually inactive in GitHub if I don't have any projects I am collaberating on, I will update my projects later.
 <!---
 Kappy-bara/Kappy-bara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
