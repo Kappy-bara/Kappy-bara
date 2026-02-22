@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing particularly.
 - 🌱 I’m currently learning Game Development.
 - 💞️ I’m looking to collaborate on something.
-- 📫 How to reach me ?? Don't :).
+- 📫 How to reach me ?? Don't :).   jk, here is my Email: Jnanadattanayak2003@gmail.com
 - ⚡ Fun fact: I love coding.
 
 <!---
