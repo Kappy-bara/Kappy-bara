@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kappy-bara
+- 👋 Hi, I’m @Cappybara
 - 👀 I’m interested in nothing particularly.
 - 🌱 I’m currently learning Game Development.
 - 💞️ I’m looking to collaborate on something.
